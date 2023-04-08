@@ -32,11 +32,13 @@ Utilize o **yarn** ou o **npm install** para instalar as dependências do projet
 Em seguida, inicie o projeto.
 
 ```cl
-npm run dev e npm run server
+npm run dev
+npm run server
 ```
 ou 
 ```cl
-yarn dev e yarn server
+yarn dev
+yarn server
 ```
 
 
